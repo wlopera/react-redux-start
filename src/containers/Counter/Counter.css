@@ -1,0 +1,17 @@
+.resultClass {
+    width: 100px;
+    height: 10px;
+    padding: 5px;
+    margin-left: 500px;
+    margin-bottom: 20px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 2px #ccc;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+}
+
+.resultClass:hover,
+.resultClass:active {
+    background-color: #eee;
+}
